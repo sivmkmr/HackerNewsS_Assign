@@ -14,7 +14,7 @@ import com.HackerNewsS_Assign.Repository.StoryRepository;
 
 import jakarta.annotation.PostConstruct;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class HackerNewsSAssignApplication {
 
 	public static void main(String[] args) {
